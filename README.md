@@ -51,7 +51,4 @@ This repository contains scripts and resources from **Week 1** of my Python Sele
 - [Selenium Documentation](https://www.selenium.dev/documentation/en/)  
 - [Python Selenium Installation Guide](https://selenium-python.readthedocs.io/installation.html)
 
-## License  
-This project is open-source and available under the MIT License.
-
 
